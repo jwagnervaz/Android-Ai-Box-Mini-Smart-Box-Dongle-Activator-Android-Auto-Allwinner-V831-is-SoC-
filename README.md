@@ -9,4 +9,3 @@ Use ch341 for flash, this port can be used to unbrick or update the device.
 
 New firmware fix some bugs.
 
-[img]https://private-user-images.githubusercontent.com/67094529/402200761-d61a7676-d949-4ae7-a05c-b41b1217701d.jpg[/img]
